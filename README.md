@@ -10,6 +10,7 @@ I have over 10 years experience in software development.
 • Web application development
 
 • Creating Web Sites
+
 • Creating Web Services/Apis
 
 • I am the author of some courses
