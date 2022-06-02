@@ -18,8 +18,6 @@ I have over 10 years experience in software development.
 
 Skills: Pascal,  Delphi2010,  C# { Windows Form, Devexpress,  Windows Services,  ASP.NET, ASP.NET MVC5, WebServices, WEB API, ADO.NET,  LINQ, Entity Framework,  .Net Core,  Asp.Net Core, Entity Framework Core, Asp.Net Core Api }, OOP, SOLID,  MSSQL, T-SQL, SSIS, MySql, PostgreSQL, HTML,  CSS, SCSS,  Javascript,  Jquery, TypeScript, Angular
 
-- 🔭 I’m currently working on Mass Solutions MMC 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamranAeff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamran-a-eff-200b54ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamran.aeff.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kamran_aeff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/user/maraz2011able)  
 
