@@ -15,6 +15,7 @@ I have over 10 years experience in software development.
 
 • I am the author of some courses
    - [ASP Net Core 5 ilə E-commerce Web Tətbiqi hazırlamaq](https://www.udemy.com/course/asp-net-core-5-ile-commerce/?referralCode=DB1B465B2F8F2CFCE7B2)
+   - [A-Z ChartJs dərsləri 2022](https://www.udemy.com/course/a-to-z-chartjs/?referralCode=C0D222E87F0CB2CE88BE)
 
 Skills: Pascal,  Delphi2010,  C# { Windows Form, Devexpress,  Windows Services,  ASP.NET, ASP.NET MVC5, WebServices, WEB API, ADO.NET,  LINQ, Entity Framework,  .Net Core,  Asp.Net Core, Entity Framework Core, Asp.Net Core Api }, OOP, SOLID,  MSSQL, T-SQL, SSIS, MySql, PostgreSQL, HTML,  CSS, SCSS,  Javascript,  Jquery, TypeScript, Angular
 
