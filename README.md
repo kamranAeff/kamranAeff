@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kamran
 #### I am Senior Software Developer | Team Lead
-I have over 10 years experience in software development.
+I have over 11 years experience in software development.
 
 • ERP system development
 - System analyses, business processes implementation
@@ -16,11 +16,12 @@ I have over 10 years experience in software development.
 • I am the author of some courses
    - [ASP Net Core 5 ilə E-commerce Web Tətbiqi hazırlamaq](https://www.udemy.com/course/asp-net-core-5-ile-commerce/?referralCode=DB1B465B2F8F2CFCE7B2)
    - [A-Z ChartJs dərsləri 2022](https://www.udemy.com/course/a-to-z-chartjs/?referralCode=C0D222E87F0CB2CE88BE)
+   - [Program mühəndisləri üçün SQL Dərsləri](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6AnmgP55oFNEuzI2rwheNaA)
 
 Skills: Pascal,  Delphi2010,  C# { Windows Form, Devexpress,  Windows Services,  ASP.NET, ASP.NET MVC5, WebServices, WEB API, ADO.NET,  LINQ, Entity Framework,  .Net Core,  Asp.Net Core, Entity Framework Core, Asp.Net Core Api }, OOP, SOLID,  MSSQL, T-SQL, SSIS, MySql, PostgreSQL, HTML,  CSS, SCSS,  Javascript,  Jquery, TypeScript, Angular
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamranAeff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamran-a-eff-200b54ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamran.aeff.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kamran_aeff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/user/maraz2011able)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamranAeff)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamran-a-eff-200b54ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamran.aeff.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kamran_aeff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/c/kamranaeff)  
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
