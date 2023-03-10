@@ -17,7 +17,6 @@ Visual Studio 2019
 
 
 [Professional](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Professional&rel=16) <br/>
-
 	- NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y <br/>
 	- NJVYC-BMHX2-G77MM-4XJMR-6Q8QF  <br/>
 
@@ -30,9 +29,9 @@ Enterprise:  <br/>
 	- N2VYX-9VR2K-T733M-MWD9X-KQCDF <br/>
 
 
-Professional: <br/>
-	- KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
-	- 4F3PR-NFKDB-8HFP7-9WXGY-K77T7
+Professional:  <br/>
+	- KBJFW-NXHK6-W4WJM-CRMQB-G3CDH <br/>
+	- 4F3PR-NFKDB-8HFP7-9WXGY-K77T7 <br/>
 
 
 Test Professional:  <br/>
