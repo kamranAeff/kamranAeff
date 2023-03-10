@@ -31,8 +31,8 @@ Enterprise:  <br/>
 
 
 Professional: <br/>
-	- KBJFW-NXHK6-W4WJM-CRMQB-G3CDH <br/>
-	- 4F3PR-NFKDB-8HFP7-9WXGY-K77T7 <br/>
+	- KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+	- 4F3PR-NFKDB-8HFP7-9WXGY-K77T7
 
 
 Test Professional:  <br/>
