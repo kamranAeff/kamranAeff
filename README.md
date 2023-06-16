@@ -16,7 +16,7 @@ I have over 11 years experience in software development.
 • I am the author of some courses
    - [Telegram](https://t.me/+vlrHbKaWUxtlMTk6)
    - [Mütəmadi yeni dərslər](https://www.youtube.com/@kamranaeff)
-   - [Architecture | N-tier](https://youtu.be/3RTNn5ylYOQ)
+   - [Architecture | N-tier](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6D2aWBESu7edqdm5CQ420yj)
    - [HTML & CSS & Javascript & SCSS](https://www.youtube.com/watch?v=vXl8K_fStkc&list=PLJY1H1Yd3f6BVtn99wUZ4_QKdn652fwTU)
    - [ASP Net Core 5 ilə E-commerce Web Tətbiqi hazırlamaq](https://www.udemy.com/course/asp-net-core-5-ile-commerce/?referralCode=DB1B465B2F8F2CFCE7B2)
    - [A-Z ChartJs dərsləri 2022](https://www.udemy.com/course/a-to-z-chartjs/?referralCode=C0D222E87F0CB2CE88BE)
