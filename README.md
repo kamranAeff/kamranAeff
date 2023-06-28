@@ -16,12 +16,13 @@ I have over 11 years experience in software development.
 • I am the author of some courses
    - [Telegram](https://t.me/+vlrHbKaWUxtlMTk6)
    - [Mütəmadi yeni dərslər](https://www.youtube.com/@kamranaeff)
-   - [Architecture | N-tier](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6D2aWBESu7edqdm5CQ420yj)
    - [HTML & CSS & Javascript & SCSS](https://www.youtube.com/watch?v=vXl8K_fStkc&list=PLJY1H1Yd3f6BVtn99wUZ4_QKdn652fwTU)
    - [ASP Net Core 5 ilə E-commerce Web Tətbiqi hazırlamaq](https://www.udemy.com/course/asp-net-core-5-ile-commerce/?referralCode=DB1B465B2F8F2CFCE7B2)
    - [A-Z ChartJs dərsləri 2022](https://www.udemy.com/course/a-to-z-chartjs/?referralCode=C0D222E87F0CB2CE88BE)
    - [Program mühəndisləri üçün SQL Dərsləri](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6AnmgP55oFNEuzI2rwheNaA)
    - [C# dərsləri ilə sıfırdan bu sektorun zirvələrinə doğru](https://www.udemy.com/course/c-drslri-il-sfrdan-bu-sektorun-zirvlrin-dogru)
+   - [Architecture | N-tier](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6D2aWBESu7edqdm5CQ420yj)
+   - [Docker](https://www.youtube.com/watch?v=dPkdTyE6Dmc&list=PLJY1H1Yd3f6D8okaMZMERO2Lh3fPkt8F-)
 
 Skills: Pascal,  Delphi2010,  C# { Windows Form, Devexpress,  Windows Services,  ASP.NET, ASP.NET MVC5, WebServices, WEB API, ADO.NET,  LINQ, Entity Framework,  .Net Core,  Asp.Net Core, Entity Framework Core, Asp.Net Core Api }, OOP, SOLID,  MSSQL, T-SQL, SSIS, MySql, PostgreSQL, HTML,  CSS, SCSS,  Javascript,  Jquery, TypeScript, Angular
 
