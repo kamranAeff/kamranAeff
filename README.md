@@ -23,6 +23,8 @@ I have over 11 years experience in software development.
    - [C# dərsləri ilə sıfırdan bu sektorun zirvələrinə doğru](https://www.udemy.com/course/c-drslri-il-sfrdan-bu-sektorun-zirvlrin-dogru)
    - [Architecture | N-tier](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6D2aWBESu7edqdm5CQ420yj)
    - [Docker](https://www.youtube.com/watch?v=dPkdTyE6Dmc&list=PLJY1H1Yd3f6D8okaMZMERO2Lh3fPkt8F-)
+   - [Dart](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6BioT3bj5f5DiZuXyFU56rM)
+   - [Flutter](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6CnSsrv1qgFJPAG0OoRBJbk)
 
 Skills: Pascal,  Delphi2010,  C# { Windows Form, Devexpress,  Windows Services,  ASP.NET, ASP.NET MVC5, WebServices, WEB API, ADO.NET,  LINQ, Entity Framework,  .Net Core,  Asp.Net Core, Entity Framework Core, Asp.Net Core Api }, OOP, SOLID,  MSSQL, T-SQL, SSIS, MySql, PostgreSQL, HTML,  CSS, SCSS,  Javascript,  Jquery, TypeScript, Angular
 
