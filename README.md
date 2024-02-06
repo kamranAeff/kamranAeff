@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kamran
 #### I am Senior Software Developer | Team Lead
-I have over 11 years experience in software development.
+I have over 12 years experience in software development.
 
 • ERP system development
 - System analyses, business processes implementation
@@ -12,6 +12,8 @@ I have over 11 years experience in software development.
 • Creating Web Sites
 
 • Creating Web Services/Apis
+
+• Background Services
 
 • I am the author of some courses
    - [Telegram](https://t.me/+vlrHbKaWUxtlMTk6)
