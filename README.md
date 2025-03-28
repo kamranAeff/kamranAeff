@@ -22,7 +22,7 @@ I have over 12 years experience in software development.
    - [ASP.NET Core for E-Commerce: Build a Real-World Store](https://www.udemy.com/course/asp-net-core-5-ile-commerce/?referralCode=DB1B465B2F8F2CFCE7B2)
    - [Data Visualization with Chart.js: Build Stunning Charts](https://www.udemy.com/course/a-to-z-chartjs/?referralCode=C0D222E87F0CB2CE88BE)
    - [Program mühəndisləri üçün SQL Dərsləri](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6AnmgP55oFNEuzI2rwheNaA)
-   - [Master C# From Scratch: Become a Professional .NET Developer]([https://www.udemy.com/course/c-drslri-il-sfrdan-bu-sektorun-zirvlrin-dogru](https://www.udemy.com/course/c-drslri-il-sfrdan-bu-sektorun-zirvlrin-dogru/?referralCode=8D49F1A9BC30A51398BF))
+   - [Master C# From Scratch: Become a Professional .NET Developer](https://www.udemy.com/course/c-drslri-il-sfrdan-bu-sektorun-zirvlrin-dogru/?referralCode=8D49F1A9BC30A51398BF)
    - [Architecture | N-tier](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6D2aWBESu7edqdm5CQ420yj)
    - [Docker](https://www.youtube.com/watch?v=dPkdTyE6Dmc&list=PLJY1H1Yd3f6D8okaMZMERO2Lh3fPkt8F-)
    - [Dart](https://www.youtube.com/playlist?list=PLJY1H1Yd3f6BioT3bj5f5DiZuXyFU56rM)
